@@ -3,6 +3,8 @@
 This repository contains source code of the [RabbitMQ Java client](http://www.rabbitmq.com/api-guide.html).
 The client is maintained by the [RabbitMQ team at Pivotal](http://github.com/rabbitmq/).
 
+[![security status](https://www.meterian.io/badge/gh/johnsblatter/rabbitmq-java-client/security)](https://www.meterian.io/report/gh/johnsblatter/rabbitmq-java-client)
+[![defect status](https://www.meterian.io/badge/gh/johnsblatter/rabbitmq-java-client/defect)](https://www.meterian.io/report/gh/johnsblatter/rabbitmq-java-client)
 
 ## Dependency (Maven Artifact)
 
